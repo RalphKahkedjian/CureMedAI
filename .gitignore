@@ -1,0 +1,36 @@
+﻿# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# SQLite database file
+*.db
+*.db-journal
+
+# Rider / JetBrains IDE
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Others
+*.DS_Store
