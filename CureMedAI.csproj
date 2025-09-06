@@ -20,7 +20,6 @@
     <Folder Include="CureMedAIBackend\Controllers\" />
     <Folder Include="CureMedAIBackend\Models\" />
     <Folder Include="CureMedAIBackend\AIModels\" />
-    <Folder Include="CureMedAIBackend\Services\" />
     <Folder Include="CureMedAIBackend\ViewModels\" />
     <Folder Include="CureMedAIFrontend\" />
   </ItemGroup>
